@@ -1,0 +1,5 @@
+outs:
+- md5: 30d0056ab6b03240ca9d122d5046395b.dir
+  size: 36365506
+  nfiles: 4
+  path: datatest
